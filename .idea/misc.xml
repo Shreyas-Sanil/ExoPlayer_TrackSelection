@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo PC/.gradle/caches/transforms-3/abef25bd52fffae047459db1be7c27be/transformed/jetified-exoplayer-ui-2.16.1/res/drawable-anydpi-v21/exo_ic_speed.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_back.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_baseline_fullscreen_24.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_baseline_play.xml" value="0.15900900900900902" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_baseline_screen_rotation_24.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_forward_10.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_forwards.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_pause.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_play.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_play_arrow.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_play_button.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_replay_10.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_setting.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_star.xml" value="0.1454954954954955" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/ic_ten_forward.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/seekbar_style.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/drawable/selectro.xml" value="0.15900900900900902" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/activity_main_screen.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/activity_test.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/activity_video_player.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/content_main.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/course_card.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/course_details.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/course_video_list.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/first_activity.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/fragment_dashboard.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/fragment_notifications.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/new_cards.xml" value="0.13153153153153152" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/preview_activity.xml" value="0.13153153153153152" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/top_course_new.xml" value="0.13153153153153152" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/ustom_controls.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/video_list.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/layout/video_player.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/Lenovo_PC/StudioProjects/Exo/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16770833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

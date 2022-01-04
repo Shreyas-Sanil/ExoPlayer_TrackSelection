@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#fff"
+    android:layout_marginBottom="1dp"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:layout_marginBottom="6dp"
+        app:cardBackgroundColor="@color/white">
+
+        <RelativeLayout
+            android:id="@+id/rel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="12dp"
+                android:elevation="10dp"
+                app:cardCornerRadius="8dp">
+
+                <ImageView
+                    android:id="@+id/image_view"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:background="#bdbdbd"
+                    android:scaleType="centerCrop" />
+
+            </androidx.cardview.widget.CardView>
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_toEndOf="@+id/image"
+                android:maxLines="2"
+                android:text="Unlimited AWSCertificated Development 2021 - NEW!!"
+                android:textColor="#000"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/subtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title"
+                android:layout_marginTop="5dp"
+                android:layout_toEndOf="@+id/image"
+                android:maxLines="2"
+                android:text="By Anil Shetty | Ex Microsoft Cloud Developer"
+                android:textColor="#6E6C6C"
+                android:textSize="12sp" />
+
+            <LinearLayout
+                android:id="@+id/linear"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_below="@+id/subtitle"
+                android:layout_toEndOf="@+id/image"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:text="5.0"
+                    android:textColor="#FFC107"
+                    android:textSize="11dp"
+                    android:textStyle="bold"
+                    android:typeface="sans" />
+
+                <ImageView
+                    android:layout_width="12dp"
+                    android:layout_height="12dp"
+                    android:layout_marginStart="5dp"
+                    android:src="@drawable/ic_star" />
+
+                <ImageView
+                    android:layout_width="12dp"
+                    android:layout_height="12dp"
+                    android:layout_marginStart="4dp"
+                    android:src="@drawable/ic_star" />
+
+                <ImageView
+                    android:layout_width="12dp"
+                    android:layout_height="12dp"
+                    android:layout_marginStart="4dp"
+                    android:src="@drawable/ic_star" />
+
+                <ImageView
+                    android:layout_width="12dp"
+                    android:layout_height="12dp"
+                    android:layout_marginStart="4dp"
+                    android:src="@drawable/ic_star" />
+
+                <ImageView
+                    android:layout_width="12dp"
+                    android:layout_height="12dp"
+                    android:layout_marginStart="4dp"
+                    android:src="@drawable/ic_star" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="10dp"
+                    android:gravity="center_vertical"
+                    android:text="(20,000)"
+                    android:textColor="#6E6C6C"
+                    android:textSize="10dp" />
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linear"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="1dp"
+                android:layout_toEndOf="@+id/image"
+                android:text="₹ 200"
+                android:textColor="#047504"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linear"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="7dp"
+                android:layout_marginTop="1dp"
+                android:layout_toEndOf="@+id/price"
+                android:text="-₹̶ ̶8̶0̶0̶"
+                android:textColor="#6E6C6C"
+                android:textSize="14sp" />
+
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="track_selection_title">Video Quality</string>
+    <string name="title_activity_main_screen">Main_Screen</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
